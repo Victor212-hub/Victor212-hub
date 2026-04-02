@@ -1,4 +1,4 @@
-## Olá👋
+### Olá👋
 
 Olá, me chamo João Victor e sou estudante/desenvolvedor web front-end, cursando S.I na Uninassau(semestre 3) com foco nos seguintes tópicos:
 
@@ -10,8 +10,16 @@ Olá, me chamo João Victor e sou estudante/desenvolvedor web front-end, cursand
   <img src="https://img.icons8.com/color/48/git.png" alt="logo-git"/>
   <img src="https://img.icons8.com/color/48/github.png" alt="logo-github"/>
 </p>
+<br><br>
+ Conecte-se comigo:
+ <br> <br>
+<p>
+  <a href="https://www.linkedin.com/in/jo%C3%A3o-victor-alves-arouca-42173639b/">
+    <img alt="ícone do Linkedin" width="40px" src="https://img.icons8.com/?size=100&id=xuvGCOXi8Wyg&format=png&color=000000"/>
+  </a>
+</p>
 
-
+<br>
 •Estudante de tecnologia com foco em desenvolvimento de software e boas práticas de engenharia
 
 •Experiência com projetos acadêmicos e práticos, incluindo sistemas web (como cadastro de alunos), aplicando conceitos de front-end, versionamento com Git/GitHub e organização de código
