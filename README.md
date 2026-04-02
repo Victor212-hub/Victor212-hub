@@ -4,11 +4,11 @@ Olá, me chamo João Victor e sou estudante/desenvolvedor web front-end, cursand
 
 
 <p> 
-  <img src="https://img.icons8.com/color/48/html-5.png"/>
-  <img src="https://img.icons8.com/color/48/css3.png"/>
-  <img src="https://img.icons8.com/color/48/javascript.png"/>
-  <img src="https://img.icons8.com/color/48/git.png"/>
-  <img src="https://img.icons8.com/color/48/github.png"/>
+  <img src="https://img.icons8.com/color/48/html-5.png" alt="logo-html"/>
+  <img src="https://img.icons8.com/color/48/css3.png" alt="logo-css"/>
+  <img src="https://img.icons8.com/color/48/javascript.png" alt="logo-javascript"/>
+  <img src="https://img.icons8.com/color/48/git.png" alt="logo-git"/>
+  <img src="https://img.icons8.com/color/48/github.png" alt="logo-github"/>
 </p>
 
 
