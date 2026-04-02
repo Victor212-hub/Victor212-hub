@@ -31,3 +31,8 @@ Olá, me chamo João Victor e sou estudante/desenvolvedor web front-end, cursand
 •Comprometido com escrita de código limpo, versionamento estruturado e aprendizado constante
 
 •Em busca de oportunidades para desenvolver habilidades na prática e crescer profissionalmente na área de tecnologia
+
+<p align="center">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Victor212-hub&show_icons=true&theme=tokyonight"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Victor212-hub&layout=compact&theme=tokyonight"/>
+</p>
