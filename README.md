@@ -34,5 +34,5 @@ Olá, me chamo João Victor e sou estudante/desenvolvedor web front-end, cursand
 
 <p align="center">
   <img height="180em" src="https://github-stats-extended.vercel.app/api?username=Victor212-hub"/>
-  [![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Victor212-hub&theme=react-dark)](https://github.com/ashutosh00710/github-readme-activity-graph)
+  <img height="180em" src="https://github-readme-activity-graph.vercel.app/graph?username=Victor212-hub&theme=react-dark"/>
 </p>
