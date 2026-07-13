@@ -1,6 +1,6 @@
 ### Olá👋
 
-Olá, me chamo João Victor e sou estudante/desenvolvedor web front-end, cursando S.I na Uninassau(semestre 3) com foco nos seguintes tópicos:
+Olá, me chamo João Victor e sou estudante/desenvolvedor web front-end, cursando S.I na Uninassau(semestre 4) com foco nos seguintes tópicos:
 
 
 <p> 
