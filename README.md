@@ -35,5 +35,4 @@ Olá, me chamo João Victor e sou estudante/desenvolvedor web front-end, cursand
 
 <p align="center">
   <img height="180em" src="https://github-stats-extended.vercel.app/api?username=Victor212-hub"/>
-  <img height="180em" src="https://github-readme-activity-graph.vercel.app/graph?username=Victor212-hub&theme=react-dark"/>
 </p>
