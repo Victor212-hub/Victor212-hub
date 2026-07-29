@@ -1,12 +1,13 @@
 ### Olá👋
 
-Olá, me chamo João Victor e sou estudante/desenvolvedor web front-end, cursando S.I na Uninassau(semestre 4) com foco nos seguintes tópicos:
+Olá, me chamo João Victor e sou estudante/desenvolvedor web front-end, cursando S.I na Uninassau(4° semestre) com foco nos seguintes tópicos:
 
 
 <p> 
   <img src="https://img.icons8.com/color/48/html-5.png" alt="logo-html"/>
   <img src="https://img.icons8.com/color/48/css3.png" alt="logo-css"/>
   <img src="https://img.icons8.com/color/48/javascript.png" alt="logo-javascript"/>
+  <img src="https://img.icons8.com/color/48/react-native.png" alt="logo-react"/>
   <img src="https://img.icons8.com/color/48/git.png" alt="logo-git"/>
   <img src="https://img.icons8.com/color/48/github.png" alt="logo-github"/>
 </p>
@@ -20,7 +21,7 @@ Olá, me chamo João Victor e sou estudante/desenvolvedor web front-end, cursand
 </p>
 
 <br>
-•Estudante de tecnologia com foco em desenvolvimento de software e boas práticas de engenharia
+•Estudante de Sistemas de Informação com foco em desenvolvimento de software e boas práticas de engenharia
 
 •Experiência com projetos acadêmicos e práticos, incluindo sistemas web (como cadastro de alunos), aplicando conceitos de front-end, versionamento com Git/GitHub e organização de código
 
